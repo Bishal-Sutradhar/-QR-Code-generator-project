@@ -237,6 +237,7 @@ a {
         height: 30px;
         width: 100px;
         font-size: 12px;
+        margin-top: 10px;
     }
 
     .generate-btn {
@@ -282,5 +283,6 @@ a {
         width: 100px;
         font-size: 12px;
     }
+
 
 }
