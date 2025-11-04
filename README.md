@@ -26,15 +26,26 @@ It instantly creates QR codes for any text or URL and lets you **download them a
 ---
 
 ## 📂 Project Files
-
-📁 QR-Code-Generator
+```
+-QR-Code-generator-project/
 ├── index.html → Main HTML file
 ├── style.css → Stylesheet
 ├── script.js → JavaScript logic
 └── README.md → Project details
+```
 
 ---
 
 ## 🖼️ Screenshot
 
 <img width="500" height="520" alt="image" src="https://github.com/user-attachments/assets/d76af34a-1ae5-4086-93d4-fd786c375ad6" />
+
+---
+
+## 👨‍💻 Author
+- **Bishal Sutradhar**  
+Feel free to fork, contribute, and open issues!
+
+---
+
+✨ *Happy Coding!* ✨
