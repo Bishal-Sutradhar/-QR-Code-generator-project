@@ -28,10 +28,10 @@ It instantly creates QR codes for any text or URL and lets you **download them a
 ## 📂 Project Files
 ```
 -QR-Code-generator-project/
+├── README.md → Project details
 ├── index.html → Main HTML file
-├── style.css → Stylesheet
 ├── script.js → JavaScript logic
-└── README.md → Project details
+└── style.css → Stylesheet
 ```
 
 ---
