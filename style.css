@@ -63,6 +63,11 @@ h2 {
     background-color: rgb(138, 154, 223);
 }
 
+.download-btn:active,
+.generate-btn:active {
+  transform: scale(0.95);
+}
+
 .input-container {
     display: flex;
     justify-content: center;
@@ -251,5 +256,6 @@ a {
         width: 100px;
         font-size: 10px;
     }
+
 
 }
