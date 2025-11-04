@@ -14,7 +14,7 @@ It instantly creates QR codes for any text or URL and lets you **download them a
 
 ---
 
-🌐Live demo: 
+🌐Live demo: https://bishal-sutradhar.github.io/-QR-Code-generator-project/
 
 ## 🧩 Tech Used
 
